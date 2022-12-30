@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "cucumber": "^5.1.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
